@@ -1,2 +1,2 @@
 # CarIncidentJupyter
-Data sciene in action
+Data science in action
